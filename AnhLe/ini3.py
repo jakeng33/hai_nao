@@ -1,0 +1,3 @@
+s="Pbl8Xu4ztCQqj2nKE5v8wxDB5xFOmKNhzvR05gTcZJniHeXE6qstaRj4qMbwMceagZwPhalaropus7MU84wjpYrfbtH9bIT4SxDsegCkX8NndRg9gp21Wfin3sUdA1708iz8imAXdRq0hiB696VLxxwCd29DOAqJYafernandiLA8Pd91vJH0n."
+ss=" "
+s[67:76+1]+ss+s[162:169+1]
