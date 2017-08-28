@@ -1,7 +1,9 @@
 # Phạm Trường Duy
 Bắc Kỳ
+
 Ba Tàu
-Dễ thương vl
+
+Ngoan hiền
 
 ## More Information
 
