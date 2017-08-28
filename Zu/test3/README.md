@@ -1,6 +1,6 @@
 The test3a consists of the following steps:
 
-_ Create the function test3a to solve the problem and save RAM\n
+_ Create the function test3a to solve the problem and save RAM
 _ Read the fasta sequence
 _ Create the output txt file
 _ Create 2 empty dictionaries, one for storing header and its length, the other for header and its sequence
