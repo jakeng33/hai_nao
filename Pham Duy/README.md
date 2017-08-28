@@ -1,4 +1,11 @@
-# hai_nao
-Pham Truong Duy
+# Ph·∫°m Tr∆∞·ªùng Duy
+
 phamduychv94@gmail.com
-KhÙng bÍ dÍ
+
+## More Information
+
+| Resource                                   | Repository Location      |
+|--------------------------------------------|--------------------------|
+| Facebook                           | [Link](https://www.facebook.com/duy.lichsu) |
+| Instagram                 | [Link](https://www.instagram.com/__duyls__/)            |
+| B·ªì                     | [Link](https://www.facebook.com/Uyenluntit)   
