@@ -1,0 +1,4 @@
+The longest sequence: 5481
+The average sequence length: 1019.4720439963336
+The greatest GC content: 0.6438356164383562
+The average GC content: 0.4141811801255512
