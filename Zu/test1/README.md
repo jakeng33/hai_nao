@@ -1,4 +1,4 @@
-**The test 1 consists of the following steps: <br /> **
+**The test 1 consists of the following steps:** <br />
 
 _ Create the function test1 to solve the problem and save the memory (RAM) <br />
 _ Read sequence.fasta and split it into pieces using fasta_content <br />
