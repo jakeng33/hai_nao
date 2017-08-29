@@ -1,4 +1,4 @@
-###*The test3a consists of the following steps: <br />
+**The test3a consists of the following steps: <br />**
 
 _ Create the function test3a to solve the problem and save RAM <br />
 _ Read the fasta sequence <br />
@@ -10,6 +10,6 @@ _ Finally, we put the header into header-sequence dictionary to get the desired 
 
 The test3b is performed the same as test3a, except the each sequence is replace by the reversed complementary sequence to meet the convetion of reading Nucleotide. <br />
 
-###*To run the program, please follow the syntax: <br />
+**To run the program, please follow the syntax: <br />**
 python test3a.py lcl.fasta lcl_a.txt <br /> 
 python test3b.py lcl.fasta lcl_b.txt
