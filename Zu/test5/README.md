@@ -1,4 +1,4 @@
-###*The test 5 is performed the same as the test 4 except that the package matplotlib is called to draw the boxplot. <br />
+**The test 5 is performed the same as the test 4 except that the package matplotlib is called to draw the boxplot. <br />
 
 The input data will be a list containing 2 sub-lists: one list of GC contents from group 1, the other comes from group 2. The input data can also be arrays. <br />
 
@@ -8,5 +8,5 @@ As the name suggests, the ax.set_title, ax.set_xlabel and ax.set_ylabel are call
 
 Finally, the boxplot is sketched through bp = ax.boxplot(data), which is visualized through plt.show(). <br /> 
 
-###*To run the program, please follow the syntax: <br />
+**To run the program, please follow the syntax: <br />
 python3 test5.py lcl.fasta
