@@ -7,7 +7,7 @@ def test5(fasta_input):
 	group1_gc_dict = {'Group1':[]}
 	group2_gc_dict = {'Group2':[]}
 
-	for item in fasta_content[1:]:
+	for item in fasta_content[1:]: #Remove the first empty element
 		item = item.strip().split("\n")
 		header = item[0]
 		seq = ''.join(item[1:])
