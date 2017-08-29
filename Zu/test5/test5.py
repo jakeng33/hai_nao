@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 
 def test5(fasta_input):
 	fasta_content = open(fasta_input).read().strip().split(">")
-	group1_gc_dict = {'Group1':[]}
-	group2_gc_dict = {'Group2':[]}
+	group1_gc = []
+	group2_gc = []
 
-	for item in fasta_content[1:]:
+	for item in fasta_content[1:]: #Remove the first empty element
 		item = item.strip().split("\n")
 		header = item[0]
 		seq = ''.join(item[1:])
@@ -16,11 +16,11 @@ def test5(fasta_input):
 		c_content = seq.count("C")
 		gc_content = (g_content + c_content)/seq_length
 		if "Group1" in header:
-			group1_gc_dict['Group1'].append(gc_content)
+			group1_gc.append(gc_content)
 		else:
-			group2_gc_dict['Group2'].append(gc_content)
+			group2_gc.append(gc_content)
 
-	data = [group1_gc_dict['Group1'],group2_gc_dict['Group2']]
+	data = [group1_gc,group2_gc]
 	fig,ax = plt.subplots(figsize=(10,6))
 	ax.set_title('Difference in GC contents rate between 2 groups')
 	ax.set_xlabel('Group')
