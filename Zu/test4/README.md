@@ -1,4 +1,4 @@
-###*The test 4 consists of the following steps: <br />
+**The test 4 consists of the following steps: <br />**
 
 _ Call stats from package scipy to perform T-test <br />
 _ Call numpy to transform a list into an aray, making it possbile to perform T-test <br />
@@ -9,5 +9,5 @@ _ arr1 and arr2 are performed to transform list of GC contents of both group in 
 _ Finally t-test is performed through ttest, the parameter equal_var is set False as the variance of both group is unknown. <br />
 
 
-###*To run the program, please follow the syntax: <br />
+**To run the program, please follow the syntax: <br />**
 python3 test4.py lcl.fasta lcl.txt
