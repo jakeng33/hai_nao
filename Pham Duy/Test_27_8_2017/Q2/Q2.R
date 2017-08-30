@@ -17,9 +17,7 @@ convertfasta <- function(x){
 }
 ## Convert do dai
 convertlen <- function(x){
-  unlist(lapply(X = x,FUN = function(x){
-    return(nchar(x))
-  }))
+  unlist(lapply(X = x,FUN = nchar))
 }
 ## Calculate GC content
 GCcontent <- function(x){
